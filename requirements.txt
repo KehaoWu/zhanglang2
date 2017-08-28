@@ -1,0 +1,5 @@
+word_cloud
+bs4
+lxml
+requests
+jieba
